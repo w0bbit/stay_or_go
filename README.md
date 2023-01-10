@@ -9,5 +9,5 @@ Use of the app requires registration with an email and password. Preferences and
 - OpenWeather (https://openweathermap.org/api)
 - Google Distance Matrix API (https://developers.google.com/maps/documentation/distance-matrix/)
 - BestTime (https://besttime.app/)
-- Custom API (crime.pl) served on port 3000. In development, this API was served with morbo.
+- Custom API ([crime.pl](https://github.com/w0bbit/crime)) served on port 3000. In development, this API was served with morbo.
   - This scrapes AreaVibes.com to provide crime rate data.
