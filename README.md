@@ -6,10 +6,10 @@ Set your preferences regarding weather, city and national crime rates, foot traf
 Use of the app requires registration with an email and password.
 
 ## Tech stack
-- PostgreSQL
-- React.js
-- Django
-- Mojolicious
+- [PostgreSQL](https://github.com/topics/postgresql)
+- [React.js](https://github.com/topics/react)
+- [Django](https://github.com/topics/django)
+- [Mojolicious](https://github.com/mojolicious/)
 
 ## APIs
 - OpenWeather (https://openweathermap.org/api)
