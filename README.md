@@ -3,7 +3,13 @@
 ## Summary
 Set your preferences regarding weather, city and national crime rates, foot traffic, and driving time/distance. Then, set a starting address and a destination address. The app will then suggest whether or not it is a good idea to visit that destination based on your preferences. In cases where the app is unable to provide a clear suggestion either way, it will provide you with the average fuel cost in your area to help you decide on your own on whether or not the trip is worth your while.
 
-Use of the app requires registration with an email and password. Preferences and addresses persist on a PostgreSQL database.
+Use of the app requires registration with an email and password.
+
+## Tech stack
+- PostgreSQL
+- React.js
+- Django
+- Mojolicious
 
 ## APIs
 - OpenWeather (https://openweathermap.org/api)
